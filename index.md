@@ -1,2 +1,3 @@
-![Xpression logo](https://media.giphy.com/headers/2020-10-14-45-1602704700/ALL_THE_HALLOWEEN_BANNER_HP.gif)
-![search demo](./Xpression - Google Chrome 2021-10-27 11-33-33.mp4)
+![Xpression logo]("https://media.giphy.com/headers/2020-10-14-45-1602704700/ALL_THE_HALLOWEEN_BANNER_HP.gif")
+![search demo]("./Untitled design.gif")
+![logo]("./xpress it.gif")
