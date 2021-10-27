@@ -1,4 +1,4 @@
-![logo](./xpress it.gif)
+![logo](./xpress_it-clear-bg-cropped.png)
 
 When words aren't enough, and emojis just don't cut it, gifs come to the rescue!
 
