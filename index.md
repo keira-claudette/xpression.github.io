@@ -1,4 +1,4 @@
-![Xpression logo](./Finger_tip.png)
+![Xpression logo](./Finger_tip.jpg)
 
 **All exciting gifs available to you, at your fingertips**
 
