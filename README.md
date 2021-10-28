@@ -1,2 +1,2 @@
 # xpression.github.io
-A GIF web application
+All exciting gifs available to you, at your fingertips.
