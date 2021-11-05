@@ -1,5 +1,7 @@
-body {
-  color: black;
+.body {
+  color: white;
+  background-color: black;
+  font-family: 'Montserrat', sans-serif;
 }
 h4 {
   color: green;
@@ -14,3 +16,4 @@ ul li {
 nav {
   display: inline;
 }
+/**font-family: 'Montserrat', sans-serif;**/
