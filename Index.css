@@ -30,4 +30,8 @@ div .column {
 }
 .container {
   display: flex;
+  align-items: center;
+}
+main {
+  width: 100%;
 }
