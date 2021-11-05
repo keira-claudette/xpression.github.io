@@ -2,7 +2,7 @@ body {
   color: black;
 }
 h4 {
-  color: yellow;
+  color: green;
 }
 .nav_links {
   color: white;
@@ -11,4 +11,6 @@ ul li {
   display: inline;
   list-style: none;
 }
-  
+nav {
+  display: inline;
+}
