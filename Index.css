@@ -1,0 +1,14 @@
+body {
+  color: black;
+}
+h4 {
+  color: yellow;
+}
+.nav_links {
+  color: white;
+}
+ul li {
+  display: inline;
+  list-style: none;
+}
+  
