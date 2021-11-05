@@ -15,6 +15,7 @@ ul li {
 }
 nav {
   display: inline;
+  background-color: white;
 }
 .landing_img {
   width: 100%;
