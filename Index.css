@@ -16,4 +16,7 @@ ul li {
 nav {
   display: inline;
 }
+.landing_img {
+  width: 100%;
+}
 /**font-family: 'Montserrat', sans-serif;**/
